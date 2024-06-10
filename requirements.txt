@@ -1,0 +1,7 @@
+langchain_groq
+langchain_google_genai
+dotenv
+crewai
+chainlit
+crew
+textwrap
